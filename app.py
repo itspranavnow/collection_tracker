@@ -7,7 +7,7 @@ import io
 
 # Page configuration
 st.set_page_config(
-    page_title="Ganesh Chavithi Chanda Tracker",
+    page_title="SARIKA YOUTH UTSAVALU",
     page_icon="🕉️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -369,5 +369,5 @@ def main():
         unsafe_allow_html=True
     )
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
