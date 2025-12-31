@@ -1,0 +1,152 @@
+[
+  {
+    "start": "00:00:00",
+    "end": "00:00:03",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Rear axle</emphasis> vue de construction.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:04",
+    "end": "00:00:11",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Rear axle assembly</emphasis> est un banjo type axle<break time='200ms'/> avec <emphasis level='moderate'>differential assembly</emphasis> monté à l'avant.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:00:12",
+    "end": "00:00:17",
+    "text": "<speak><prosody rate='medium'>L'<emphasis level='strong'>front axle</emphasis> est aussi un banjo type axle.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:27",
+    "end": "00:00:35",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Input flange</emphasis> est placé entre le drive pinion et le propeller shaft flange yoke arrière.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:00:36",
+    "end": "00:00:40",
+    "text": "<speak><prosody rate='medium'>Il transfère la puissance au <emphasis level='moderate'>drive pinion</emphasis>.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:41",
+    "end": "00:00:52",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential carrier</emphasis> est en fonte<break time='200ms'/> il supporte le final drive et <emphasis level='moderate'>differential assembly</emphasis> sur les side bearings.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:00:53",
+    "end": "00:00:57",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential carrier assembly</emphasis> est fixé au rear axle housing.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:58",
+    "end": "00:01:06",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential lock</emphasis> fonctionne par pression pneumatique<break time='200ms'/> contrôlée par le differential lock solenoid.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:06",
+    "end": "00:01:11",
+    "text": "<speak><prosody rate='medium'>Le signal vient de l'<emphasis level='moderate'>F R control unit</emphasis>.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:13",
+    "end": "00:01:17",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential locking unit</emphasis>.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:19",
+    "end": "00:01:29",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Input shaft</emphasis> est en acier trempé<break time='200ms'/> avec un engrenage pour s'engrener avec le crown wheel.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:29",
+    "end": "00:01:36",
+    "text": "<speak><prosody rate='medium'>Il a des splines pour fixer le flange yoke au rear propeller shaft flange.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:37",
+    "end": "00:01:42",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Crown wheel</emphasis> transfère la puissance du drive pinion au differential case.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:43",
+    "end": "00:01:47",
+    "text": "<speak><prosody rate='medium'>Crown wheel et case sont usinés pour un ajustement serré.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:48",
+    "end": "00:01:55",
+    "text": "<speak><prosody rate='medium'>Le type hypoid avec axe bas améliore la lubrification.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:56",
+    "end": "00:02:03",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential cage</emphasis> est en fonte<break time='200ms'/> il contient les engrenages sur des cross shafts.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:04",
+    "end": "00:02:08",
+    "text": "<speak><prosody rate='medium'>Fixé au crown wheel avec des boulons solides.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:10",
+    "end": "00:02:15",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Sun gears</emphasis> sont montés sur le cross shaft du differential unit.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:16",
+    "end": "00:02:23",
+    "text": "<speak><prosody rate='medium'>Pendant le virage, ils permettent à la roue extérieure de tourner plus vite.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:25",
+    "end": "00:02:31",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Star gears</emphasis> et <emphasis level='strong'>spider</emphasis> relient les sun gears.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:32",
+    "end": "00:02:37",
+    "text": "<speak><prosody rate='medium'>Ils assurent que les sun gears tournent dans la même direction.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:38",
+    "end": "00:02:42",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Spider</emphasis> maintient les planetary gears en place.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:44",
+    "end": "00:02:51",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Axle shaft</emphasis> est en acier allié forgé<break time='200ms'/> avec des splines d'un côté et un flange de l'autre.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:51",
+    "end": "00:03:01",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Brake drum</emphasis> est en fonte spéciale<break time='200ms'/> conductrice de chaleur et résistante à l'usure.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:02",
+    "end": "00:03:07",
+    "text": "<speak><prosody rate='medium'>Monté près du brake shoe et tourne avec la roue.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:03:09",
+    "end": "00:03:18",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Wheel hub</emphasis> est en fonte sphéroïdale<break time='200ms'/> il contient des roulements, joints et boulons de roue.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:18",
+    "end": "00:03:27",
+    "text": "<speak><prosody rate='medium'>Le hub sert de logement pour les roulements et tourne autour de l'axe.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:31",
+    "end": "00:03:38",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Brake assembly</emphasis> comprend camshaft, shoes, ressorts et protections.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:38",
+    "end": "00:03:49",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Rear axle housing</emphasis> est la partie principale<break time='200ms'/> avec un design heavy duty floating type.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:50",
+    "end": "00:03:57",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential carrier assembly</emphasis> aussi appelé drive head unit<break time='200ms'/> fixé au axle housing.</prosody><break time='300ms'/></speak>"
+  }
+]

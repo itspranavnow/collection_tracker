@@ -1,0 +1,152 @@
+[
+  {
+    "start": "00:00:00",
+    "end": "00:00:03",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Rear axle</emphasis> നിർമ്മാണ ദൃശ്യം.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:04",
+    "end": "00:00:11",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Rear axle assembly</emphasis> banjo type axle ആണ്<break time='200ms'/> ഇതിന്റെ മുൻഭാഗത്ത് <emphasis level='moderate'>differential assembly</emphasis> ഘടിപ്പിച്ചിരിക്കുന്നു.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:00:12",
+    "end": "00:00:17",
+    "text": "<speak><prosody rate='medium'>മുൻഭാഗത്തെ <emphasis level='strong'>front axle</emphasis> banjo type axle ആണ്.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:27",
+    "end": "00:00:35",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Input flange</emphasis> drive pinionനും propeller shaft flange yokeനും ഇടയിൽ ഘടിപ്പിച്ചിരിക്കുന്നു.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:00:36",
+    "end": "00:00:40",
+    "text": "<speak><prosody rate='medium'>ഇത് power <emphasis level='moderate'>drive pinion</emphasis> ലേക്ക് കൈമാറുന്നു.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:41",
+    "end": "00:00:52",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential carrier</emphasis> cast iron കൊണ്ട് നിർമ്മിച്ചതാണ്<break time='200ms'/> ഇത് final driveയും <emphasis level='moderate'>differential assembly</emphasis>യും side bearingsൽ പിന്തുണയ്ക്കുന്നു.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:00:53",
+    "end": "00:00:57",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential carrier assembly</emphasis> rear axle housingൽ ഘടിപ്പിച്ചിരിക്കുന്നു.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:58",
+    "end": "00:01:06",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential lock</emphasis> pneumatic pressure ഉപയോഗിച്ച് പ്രവർത്തിക്കുന്നു<break time='200ms'/> ഇത് differential lock solenoid നിയന്ത്രിക്കുന്നു.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:06",
+    "end": "00:01:11",
+    "text": "<speak><prosody rate='medium'>ഈ solenoidക്ക് signal <emphasis level='moderate'>F R control unit</emphasis>ൽ നിന്ന് ലഭിക്കുന്നു.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:13",
+    "end": "00:01:17",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential locking unit</emphasis>.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:19",
+    "end": "00:01:29",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Input shaft</emphasis> hardened steel കൊണ്ട് നിർമ്മിച്ചതാണ്<break time='200ms'/> ഇത് crown wheelൽ mesh ചെയ്യുന്ന gear ഉണ്ട്.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:29",
+    "end": "00:01:36",
+    "text": "<speak><prosody rate='medium'>ഇതിൽ splines ഉണ്ട് flange yoke rear propeller shaft flangeൽ ബന്ധിപ്പിക്കാൻ.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:37",
+    "end": "00:01:42",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Crown wheel</emphasis> drive pinionൽ നിന്ന് power differential caseലേക്ക് കൈമാറുന്നു.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:43",
+    "end": "00:01:47",
+    "text": "<speak><prosody rate='medium'>Crown wheelയും caseയും tight fitക്കായി machined ചെയ്തിരിക്കുന്നു.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:48",
+    "end": "00:01:55",
+    "text": "<speak><prosody rate='medium'>Hypoid type low pinion axis crown center ഉപയോഗിച്ച് മികച്ച lubrication നൽകുന്നു.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:56",
+    "end": "00:02:03",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential cage</emphasis> iron casting കൊണ്ട് നിർമ്മിച്ചതാണ്<break time='200ms'/> ഇതിൽ cross shaftsൽ differential gears ഉണ്ട്.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:04",
+    "end": "00:02:08",
+    "text": "<speak><prosody rate='medium'>ഇത് crown wheelക്ക് strong bolts ഉപയോഗിച്ച് ഘടിപ്പിച്ചിരിക്കുന്നു.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:10",
+    "end": "00:02:15",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Sun gears</emphasis> differential unitൽ cross shaftൽ ഘടിപ്പിച്ചിരിക്കുന്നു.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:16",
+    "end": "00:02:23",
+    "text": "<speak><prosody rate='medium'>Cornering സമയത്ത് outer wheel കൂടുതൽ വേഗത്തിൽ തിരിയാൻ സഹായിക്കുന്നു.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:25",
+    "end": "00:02:31",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Star gears</emphasis>യും <emphasis level='strong'>spider</emphasis>യും sun gears ബന്ധിപ്പിക്കുന്നു.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:32",
+    "end": "00:02:37",
+    "text": "<speak><prosody rate='medium'>ഇവ sun gears ഒരേ ദിശയിൽ തിരിയാൻ സഹായിക്കുന്നു.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:38",
+    "end": "00:02:42",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Spider</emphasis> planetary gears സ്ഥിരമായി പിടിച്ചിരിക്കുന്നു.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:44",
+    "end": "00:02:51",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Axle shaft</emphasis> forged alloy steel കൊണ്ട് നിർമ്മിച്ചതാണ്<break time='200ms'/> ഒരു അറ്റത്ത് splines ഉണ്ട് മറ്റേ അറ്റത്ത് flange ഉണ്ട്.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:51",
+    "end": "00:03:01",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Brake drum</emphasis> special cast iron കൊണ്ട് നിർമ്മിച്ചതാണ്<break time='200ms'/> ഇത് heat conductiveയും wear resistantയും ആണ്.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:02",
+    "end": "00:03:07",
+    "text": "<speak><prosody rate='medium'>ഇത് brake shoeക്ക് അടുത്തായി ഘടിപ്പിച്ചിരിക്കുന്നു, wheelനൊപ്പം തിരിയുന്നു.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:03:09",
+    "end": "00:03:18",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Wheel hub</emphasis> sferoidal cast iron കൊണ്ട് നിർമ്മിച്ചതാണ്<break time='200ms'/> ഇതിൽ bearings, oil seals, wheel bolts ഉണ്ട്.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:18",
+    "end": "00:03:27",
+    "text": "<speak><prosody rate='medium'>Hub wheel bearingsക്ക് housing ആയി പ്രവർത്തിക്കുന്നു, axle ചുറ്റും wheel തിരിയുന്നു.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:31",
+    "end": "00:03:38",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Brake assembly</emphasis> camshaft, shoes, return springs, dirt shields ഉൾക്കൊള്ളുന്നു.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:38",
+    "end": "00:03:49",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Rear axle housing</emphasis> axle assemblyയുടെ പ്രധാന ഭാഗമാണ്<break time='200ms'/> ഇത് heavy duty floating type design ആണ്.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:50",
+    "end": "00:03:57",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential carrier assembly</emphasis> drive head unit എന്നും വിളിക്കുന്നു<break time='200ms'/> ഇത് axle housingൽ ഘടിപ്പിച്ചിരിക്കുന്നു.</prosody><break time='300ms'/></speak>"
+  }
+]

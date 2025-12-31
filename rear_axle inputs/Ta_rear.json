@@ -1,0 +1,152 @@
+[
+  {
+    "start": "00:00:00",
+    "end": "00:00:03",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Rear axle</emphasis> கட்டமைப்பு காட்சி.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:04",
+    "end": "00:00:11",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Rear axle assembly</emphasis> banjo type axle ஆகும்<break time='200ms'/> இதன் முன்புறத்தில் <emphasis level='moderate'>differential assembly</emphasis> பொருத்தப்பட்டுள்ளது.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:00:12",
+    "end": "00:00:17",
+    "text": "<speak><prosody rate='medium'>முன்புற <emphasis level='strong'>front axle</emphasis> கூட banjo type axle ஆகும்.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:27",
+    "end": "00:00:35",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Input flange</emphasis> drive pinion மற்றும் propeller shaft flange yoke இடையே உள்ளது.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:00:36",
+    "end": "00:00:40",
+    "text": "<speak><prosody rate='medium'>இது power ஐ <emphasis level='moderate'>drive pinion</emphasis> க்கு அனுப்புகிறது.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:41",
+    "end": "00:00:52",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential carrier</emphasis> cast iron மூலம் செய்யப்பட்டது<break time='200ms'/> இது final drive மற்றும் <emphasis level='moderate'>differential assembly</emphasis> க்கு side bearings மூலம் ஆதரவு தருகிறது.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:00:53",
+    "end": "00:00:57",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential carrier assembly</emphasis> rear axle housing இல் பொருத்தப்பட்டுள்ளது.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:58",
+    "end": "00:01:06",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential lock</emphasis> pneumatic pressure மூலம் செயல்படுகிறது<break time='200ms'/> இது differential lock solenoid மூலம் கட்டுப்படுத்தப்படுகிறது.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:06",
+    "end": "00:01:11",
+    "text": "<speak><prosody rate='medium'>இந்த solenoid க்கு signal <emphasis level='moderate'>F R control unit</emphasis> இருந்து வருகிறது.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:13",
+    "end": "00:01:17",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential locking unit</emphasis>.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:19",
+    "end": "00:01:29",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Input shaft</emphasis> hardened steel மூலம் செய்யப்பட்டது<break time='200ms'/> இது crown wheel உடன் mesh ஆகும் gear உடன் உள்ளது.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:29",
+    "end": "00:01:36",
+    "text": "<speak><prosody rate='medium'>இதில் splines உள்ளது flange yoke rear propeller shaft flange உடன் இணைக்க.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:37",
+    "end": "00:01:42",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Crown wheel</emphasis> drive pinion இருந்து power ஐ differential case க்கு அனுப்புகிறது.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:43",
+    "end": "00:01:47",
+    "text": "<speak><prosody rate='medium'>Crown wheel மற்றும் case tight fit ஆக machined செய்யப்பட்டுள்ளது.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:48",
+    "end": "00:01:55",
+    "text": "<speak><prosody rate='medium'>Hypoid type low pinion axis crown center உடன் lubrication மேம்படுத்துகிறது.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:56",
+    "end": "00:02:03",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential cage</emphasis> iron casting மூலம் செய்யப்பட்டது<break time='200ms'/> இதில் cross shafts மீது differential gears உள்ளது.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:04",
+    "end": "00:02:08",
+    "text": "<speak><prosody rate='medium'>இது crown wheel க்கு strong bolts மூலம் பொருத்தப்பட்டுள்ளது.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:10",
+    "end": "00:02:15",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Sungear</emphasis> differential unit இல் cross shaft மீது உள்ளது.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:16",
+    "end": "00:02:23",
+    "text": "<speak><prosody rate='medium'>Cornering போது outer wheel அதிக வேகத்தில் சுழல உதவுகிறது.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:25",
+    "end": "00:02:31",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Stargears</emphasis> மற்றும் <emphasis level='strong'>spider</emphasis> இரண்டு sungears ஐ இணைக்கிறது.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:32",
+    "end": "00:02:37",
+    "text": "<speak><prosody rate='medium'>இவை sungears ஒரே திசையில் சுழல உதவுகிறது.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:38",
+    "end": "00:02:42",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Spider</emphasis> planetary gears ஐ நிலைப்படுத்துகிறது.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:44",
+    "end": "00:02:51",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Axle shaft</emphasis> forged alloy steel மூலம் செய்யப்பட்டது<break time='200ms'/> ஒரு முனையில் splines மற்றும் மற்றொரு முனையில் flange உள்ளது.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:51",
+    "end": "00:03:01",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Brake drum</emphasis> special cast iron மூலம் செய்யப்பட்டது<break time='200ms'/> இது heat conductive மற்றும் wear resistant ஆகும்.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:02",
+    "end": "00:03:07",
+    "text": "<speak><prosody rate='medium'>இது brake shoe அருகில் பொருத்தப்பட்டுள்ளது மற்றும் wheel உடன் சுழல்கிறது.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:03:09",
+    "end": "00:03:18",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Wheel hub</emphasis> sferoidal cast iron மூலம் செய்யப்பட்டது<break time='200ms'/> இதில் bearings, oil seals மற்றும் wheel bolts உள்ளது.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:18",
+    "end": "00:03:27",
+    "text": "<speak><prosody rate='medium'>Hub wheel bearings க்கு housing ஆக செயல்படுகிறது மற்றும் axle சுற்றி wheel சுழல்கிறது.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:31",
+    "end": "00:03:38",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Brake assembly</emphasis> camshaft, shoes, return springs மற்றும் dirt shields கொண்டது.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:38",
+    "end": "00:03:49",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Rear axle housing</emphasis> axle assembly இன் முக்கிய பகுதி<break time='200ms'/> இது heavy duty floating type design ஆகும்.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:50",
+    "end": "00:03:57",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential carrier assembly</emphasis> drive head unit என்றும் அழைக்கப்படுகிறது<break time='200ms'/> இது axle housing இல் பொருத்தப்பட்டுள்ளது.</prosody><break time='300ms'/></speak>"
+  }
+]

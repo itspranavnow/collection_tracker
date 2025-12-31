@@ -1,0 +1,152 @@
+[
+  {
+    "start": "00:00:00",
+    "end": "00:00:03",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Rear axle</emphasis> 構造ビュー。</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:04",
+    "end": "00:00:11",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Rear axle assembly</emphasis> は banjo type axle です<break time='200ms'/> 前面に <emphasis level='moderate'>differential assembly</emphasis> が取り付けられています。</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:00:12",
+    "end": "00:00:17",
+    "text": "<speak><prosody rate='medium'>前方の <emphasis level='strong'>front axle</emphasis> も banjo type axle です。</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:27",
+    "end": "00:00:35",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Input flange</emphasis> は drive pinion と propeller shaft flange yoke の間にあります。</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:00:36",
+    "end": "00:00:40",
+    "text": "<speak><prosody rate='medium'>これは power を <emphasis level='moderate'>drive pinion</emphasis> に伝えます。</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:41",
+    "end": "00:00:52",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential carrier</emphasis> は鋳鉄製で<break time='200ms'/> final drive と <emphasis level='moderate'>differential assembly</emphasis> を side bearings 上で支えます。</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:00:53",
+    "end": "00:00:57",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential carrier assembly</emphasis> は rear axle housing に取り付けられています。</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:58",
+    "end": "00:01:06",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential lock</emphasis> は空気圧で作動し<break time='200ms'/> differential lock solenoid によって制御されます。</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:06",
+    "end": "00:01:11",
+    "text": "<speak><prosody rate='medium'>この solenoid への信号は <emphasis level='moderate'>F R control unit</emphasis> から送られます。</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:13",
+    "end": "00:01:17",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential locking unit</emphasis>。</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:19",
+    "end": "00:01:29",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Input shaft</emphasis> は硬化鋼製で<break time='200ms'/> crown wheel と噛み合うギアを持っています。</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:29",
+    "end": "00:01:36",
+    "text": "<speak><prosody rate='medium'>一方の端には splines があり、flange yoke を rear propeller shaft flange に接続します。</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:37",
+    "end": "00:01:42",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Crown wheel</emphasis> は drive pinion から differential case に power を伝えます。</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:43",
+    "end": "00:01:47",
+    "text": "<speak><prosody rate='medium'>Crown wheel と case は密着するように加工されています。</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:48",
+    "end": "00:01:55",
+    "text": "<speak><prosody rate='medium'>Hypoid type の低 pinion 軸は潤滑を改善します。</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:56",
+    "end": "00:02:03",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential cage</emphasis> は鋳鉄製で<break time='200ms'/> cross shafts 上に differential gears を持っています。</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:04",
+    "end": "00:02:08",
+    "text": "<speak><prosody rate='medium'>これは crown wheel に強力なボルトで固定されています。</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:10",
+    "end": "00:02:15",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Sun gears</emphasis> は differential unit の cross shaft に取り付けられています。</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:16",
+    "end": "00:02:23",
+    "text": "<speak><prosody rate='medium'>カーブ時に外側の車輪がより速く回転するのを可能にします。</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:25",
+    "end": "00:02:31",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Star gears</emphasis> と <emphasis level='strong'>spider</emphasis> は sun gears を接続します。</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:32",
+    "end": "00:02:37",
+    "text": "<speak><prosody rate='medium'>これらは sun gears が同じ方向に回転するのを保証します。</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:38",
+    "end": "00:02:42",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Spider</emphasis> は planetary gears を固定します。</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:44",
+    "end": "00:02:51",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Axle shaft</emphasis> は鍛造合金鋼製で<break time='200ms'/> 一方の端に splines、もう一方に flange があります。</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:51",
+    "end": "00:03:01",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Brake drum</emphasis> は特殊な鋳鉄製で<break time='200ms'/> 熱伝導性と耐摩耗性があります。</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:02",
+    "end": "00:03:07",
+    "text": "<speak><prosody rate='medium'>これは brake shoe の近くに取り付けられ、車輪と一緒に回転します。</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:03:09",
+    "end": "00:03:18",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Wheel hub</emphasis> は球状黒鉛鋳鉄製で<break time='200ms'/> ベアリング、オイルシール、ホイールボルトを含みます。</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:18",
+    "end": "00:03:27",
+    "text": "<speak><prosody rate='medium'>Hub はホイールベアリングのハウジングとして機能し、車軸の周りで回転します。</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:31",
+    "end": "00:03:38",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Brake assembly</emphasis> は camshaft、shoes、リターンスプリング、ダートシールドを含みます。</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:38",
+    "end": "00:03:49",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Rear axle housing</emphasis> は axle assembly の主要部品で<break time='200ms'/> heavy duty floating type デザインです。</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:50",
+    "end": "00:03:57",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential carrier assembly</emphasis> は drive head unit とも呼ばれ<break time='200ms'/> axle housing に取り付けられています。</prosody><break time='300ms'/></speak>"
+  }
+]

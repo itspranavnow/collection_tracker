@@ -1,170 +1,93 @@
-# 🕉️ Ganesh Chavithi Chanda Tracker
-
-A beautiful and user-friendly Streamlit web application for tracking Ganesh Chavithi Chanda Collections and Expenses in your colony. Built with modern UI design and festive colors to celebrate the spirit of Ganesh Chaturthi.
-
-## ✨ Features
-
-### 🧾 Chanda Collections Tab
-- **Summary Cards**: Total collected, total due, paid donors count, due donors count
-- **Search & Filter**: Search by donor name, filter by type (Civic, Basic, Intrinsic, Classic) and status (Paid/Due)
-- **Interactive Charts**: Pie chart showing amount distribution by type, bar chart for paid vs due amounts
-- **Download Data**: Export filtered collections as CSV
-- **Beautiful UI**: Colorful badges and status indicators
-
-### 💰 Expenses Tab
-- **Expense Summary**: Total expenses displayed in an attractive card
-- **Expense Details**: Complete list of all expenses with costs
-- **Visual Charts**: Bar chart showing expense breakdown
-- **Download Data**: Export expenses as CSV
-
-### 🎨 UI/UX Features
-- **Festive Design**: Warm colors (saffron, red, yellow, green) celebrating Ganesh Chaturthi
-- **Responsive Layout**: Works perfectly on desktop, tablet, and mobile
-- **Interactive Elements**: Hover effects, smooth transitions, and modern styling
-- **Status Indicators**: Color-coded badges for paid (✅) and due (❌) status
-- **Type Badges**: Beautiful gradient badges for different collection types
-
-## 📁 File Structure
-
-```
-ganesh-chavithi-tracker/
-│
-├── app.py                 # Main Streamlit application
-├── requirements.txt       # Python dependencies
-├── collections.xlsx       # Collections data (Name, Amount, Type, Status)
-├── expenses.xlsx          # Expenses data (Expense Name, Cost)
-├── create_sample_data.py  # Script to generate sample data
-└── README.md             # This file
-```
-
-## 🚀 Quick Start
-
-### 1. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 2. Create Sample Data (Optional)
-
-If you don't have your own Excel files, run this to create sample data:
-
-```bash
-python create_sample_data.py
-```
-
-### 3. Run the Application
-
-```bash
-streamlit run app.py
-```
-
-The app will open in your browser at `http://localhost:8501`
-
-## 📊 Data Format
-
-### Collections Excel File (`collections.xlsx`)
-| Column | Description | Example |
-|--------|-------------|---------|
-| `Name` | Donor's name | "Ramesh Kumar" |
-| `Amount` | Contribution amount | 1000 |
-| `Type` | Category type | "Civic", "Basic", "Intrinsic", "Classic" |
-| `Status` | Payment status | "Paid" or "Due" |
-
-### Expenses Excel File (`expenses.xlsx`)
-| Column | Description | Example |
-|--------|-------------|---------|
-| `Expense Name` | Name of the expense | "Ganesh Idol" |
-| `Cost` | Cost amount | 5000 |
-
-## 🌐 Deployment
-
-### Deploy to Streamlit Community Cloud
-
-1. **Push to GitHub**:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git branch -M main
-   git remote add origin https://github.com/yourusername/ganesh-chavithi-tracker.git
-   git push -u origin main
-   ```
-
-2. **Deploy on Streamlit Cloud**:
-   - Go to [share.streamlit.io](https://share.streamlit.io)
-   - Sign in with GitHub
-   - Click "New app"
-   - Select your repository
-   - Set the main file path as `app.py`
-   - Click "Deploy"
-
-### Deploy to Heroku
-
-1. Create a `Procfile`:
-   ```
-   web: streamlit run app.py --server.port=$PORT --server.address=0.0.0.0
-   ```
-
-2. Deploy using Heroku CLI or GitHub integration
-
-## 🛠️ Customization
-
-### Changing Colors
-Edit the CSS in `app.py` to customize the color scheme:
-
-```css
-.main-header {
-    background: linear-gradient(90deg, #YOUR_COLOR1, #YOUR_COLOR2, #YOUR_COLOR3);
-}
-```
-
-### Adding New Features
-The app is modular and easy to extend. You can:
-- Add new tabs for different data types
-- Create additional charts and visualizations
-- Implement data entry forms
-- Add user authentication
-
-## 📱 Mobile Responsive
-
-The app is fully responsive and works great on:
-- 📱 Mobile phones
-- 📱 Tablets
-- 💻 Desktop computers
-- 🖥️ Large screens
-
-## 🎯 Key Features Summary
-
-- ✅ **Real-time Data Loading**: Automatically loads fresh data from Excel files
-- ✅ **Search & Filter**: Find donors quickly with case-insensitive search
-- ✅ **Visual Analytics**: Beautiful charts and graphs
-- ✅ **Export Functionality**: Download data as CSV files
-- ✅ **Festive Design**: Ganesh Chaturthi themed colors and styling
-- ✅ **Mobile Friendly**: Responsive design for all devices
-- ✅ **Easy Deployment**: Ready for Streamlit Community Cloud
-
-## 🤝 Contributing
-
-Feel free to contribute to this project by:
-- Reporting bugs
-- Suggesting new features
-- Improving the UI/UX
-- Adding new functionality
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 🙏 Acknowledgments
-
-- Built with ❤️ for Ganesh Chaturthi celebrations
-- Powered by Streamlit for beautiful web applications
-- Uses Plotly for interactive visualizations
-- Pandas for efficient data handling
-
+---
+VIDEO_TTS — Submission README
 ---
 
-**🕉️ Ganpati Bappa Morya! 🕉️**
+Purpose
+-------
+This folder contains the tooling and artifacts used to generate and manage Text-to-Speech (TTS) audio aligned to video timelines. The README below is a submission-style document intended to be uploaded to a Git repository alongside the code and assets.
 
-*May Lord Ganesh bless your celebrations and bring prosperity to all!*
+Contents
+--------
+- `raw/` (recommended): per-chunk generated audio files (e.g. `segment_0.mp3`).
+- `final/` (recommended): final merged audio files for each video (e.g. `video_final.mp3`).
+- `manifests/` (recommended): JSON/CSV mapping files that link transcript segments to audio files and timestamps.
+- `scripts/` (optional): helper scripts for normalization, concatenation, and upload.
+- `dubs_rear.py` (example): a sample end-to-end script that generates, aligns, and muxes TTS audio to video.
+
+Quick summary
+-------------
+- Input: timestamped transcript (JSON) containing segments with `start`, `end`, and `text` (SSML or plain text).
+- Processing: generate per-segment audio via TTS, speed-adjust or pad to meet segment duration, concatenate segments, optionally pad to video length.
+- Output: combined aligned audio for each video and a final video with the new audio track.
+
+Prerequisites
+-------------
+- System tools:
+	- `ffmpeg` and `ffprobe` available on PATH.
+- Python environment (recommended):
+	- Python 3.10+ (repo used Python 3.12 during development).
+	- Virtual environment recommended to isolate dependencies.
+
+Python dependencies (example)
+-----------------------------
+Install the minimal packages used by helper scripts and sample tools:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install pydub python-dotenv google-cloud-texttospeech
+```
+
+Configuration & credentials
+---------------------------
+- If using Google Cloud Text-to-Speech, set the `GOOGLE_APPLICATION_CREDENTIALS` environment variable to a service account JSON with TTS permissions. Example:
+
+```bash
+export GOOGLE_APPLICATION_CREDENTIALS="/path/to/service-account.json"
+```
+
+Example usage (high-level)
+--------------------------
+1. Prepare a timestamped transcript JSON (array of segments). Each segment must at least contain `start`, `end`, and `text`.
+2. Generate per-segment TTS audio and save into `VIDEO_TTS/raw/`.
+3. Normalize and, if required, speed-adjust or pad each chunk to match its target duration.
+4. Concatenate chunks in chronological order into `VIDEO_TTS/final/{video_id}.wav` or `.mp3`.
+5. Optionally upload final audio and/or mux it into the original video via `ffmpeg`.
+
+Common ffmpeg examples
+----------------------
+Normalize sample rate and channels:
+
+```bash
+ffmpeg -i input.mp3 -ar 16000 -ac 1 output_mono_16k.wav
+```
+
+Concat a list of WAV files using a file list:
+
+```bash
+# create files.txt with lines: file 'VIDEO_TTS/raw/chunk_001.wav'
+ffmpeg -f concat -safe 0 -i files.txt -c copy VIDEO_TTS/final/video_final.wav
+```
+
+Recommended practices
+---------------------
+- Keep a manifest per video in `VIDEO_TTS/manifests/` that records: segment index, start, end, chunk filename, flags (speed_adjusted/silence_added), and QA notes.
+- Use consistent sample rate and channel layout across chunks (recommended mono 16k or 24kHz) before concatenation.
+- Version control only scripts and manifests; avoid committing large binary audio files unless required by repo policy.
+
+Troubleshooting
+---------------
+- JSON parse errors: ensure NDJSON/JSON files contain valid JSON objects (no leading `//` or stray commas).
+- `ModuleNotFoundError`: activate the virtualenv and install dependencies into it.
+- Out-of-sync audio: check timestamps and QA manifest to find segments with mismatch or speed adjustment.
+
+Extending this folder
+---------------------
+- Add helper scripts under `VIDEO_TTS/scripts/` for normalization, merging, and uploading.
+- Add a `Makefile` or `run_tts.sh` to standardize the pipeline: generate → normalize → merge → upload.
+- Store QA JSON outputs (segment QA and timeline QA) in `VIDEO_TTS/manifests/` for traceability.
+
+Contact / Maintainer
+--------------------
+If you want me to add helper scripts, CI checks, or manifest writers, reply with which parts you want automated and I will add them.
+

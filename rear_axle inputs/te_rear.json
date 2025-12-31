@@ -1,0 +1,152 @@
+[
+  {
+    "start": "00:00:00",
+    "end": "00:00:03",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Rear axle</emphasis> నిర్మాణ వీక్షణ.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:04",
+    "end": "00:00:11",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Rear axle assembly</emphasis> banjo type axle గా ఉంటుంది<break time='200ms'/> దీని ముందు భాగంలో <emphasis level='moderate'>differential assembly</emphasis> అమర్చబడింది.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:00:12",
+    "end": "00:00:17",
+    "text": "<speak><prosody rate='medium'>ముందు భాగంలో ఉన్న <emphasis level='strong'>front axle</emphasis> కూడా banjo type axle గా ఉంటుంది.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:27",
+    "end": "00:00:35",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Input flange</emphasis> drive pinion మరియు propeller shaft flange yoke మధ్య అమర్చబడింది.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:00:36",
+    "end": "00:00:40",
+    "text": "<speak><prosody rate='medium'>ఇది power ను <emphasis level='moderate'>drive pinion</emphasis> కు పంపుతుంది.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:41",
+    "end": "00:00:52",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential carrier</emphasis> cast iron తో తయారైంది<break time='200ms'/> ఇది final drive మరియు <emphasis level='moderate'>differential assembly</emphasis> ను side bearings పై మద్దతు ఇస్తుంది.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:00:53",
+    "end": "00:00:57",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential carrier assembly</emphasis> rear axle housing కు అమర్చబడింది.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:00:58",
+    "end": "00:01:06",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential lock</emphasis> pneumatic pressure ద్వారా పనిచేస్తుంది<break time='200ms'/> ఇది differential lock solenoid ద్వారా నియంత్రించబడుతుంది.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:06",
+    "end": "00:01:11",
+    "text": "<speak><prosody rate='medium'>ఈ solenoid కు signal <emphasis level='moderate'>F R control unit</emphasis> నుండి వస్తుంది.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:13",
+    "end": "00:01:17",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential locking unit</emphasis>.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:19",
+    "end": "00:01:29",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Input shaft</emphasis> hardened steel తో తయారైంది<break time='200ms'/> ఇది crown wheel తో mesh అయ్యేలా gear కలిగి ఉంటుంది.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:29",
+    "end": "00:01:36",
+    "text": "<speak><prosody rate='medium'>ఇది splines కలిగి ఉంటుంది flange yoke ను rear propeller shaft flange తో కలపడానికి.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:37",
+    "end": "00:01:42",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Crown wheel</emphasis> drive pinion నుండి power ను differential case కు పంపుతుంది.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:43",
+    "end": "00:01:47",
+    "text": "<speak><prosody rate='medium'>Crown wheel మరియు case tight fit అయ్యేలా machined చేయబడతాయి.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:01:48",
+    "end": "00:01:55",
+    "text": "<speak><prosody rate='medium'>Hypoid type low pinion axis crown center తో ఉండటం వల్ల lubrication మెరుగ్గా ఉంటుంది.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:01:56",
+    "end": "00:02:03",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential cage</emphasis> iron casting తో తయారైంది<break time='200ms'/> ఇది cross shafts పై differential gears ను కలిగి ఉంటుంది.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:04",
+    "end": "00:02:08",
+    "text": "<speak><prosody rate='medium'>ఇది crown wheel కు strong bolts తో అమర్చబడింది.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:10",
+    "end": "00:02:15",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Sungear</emphasis> differential unit లో cross shaft పై అమర్చబడింది.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:16",
+    "end": "00:02:23",
+    "text": "<speak><prosody rate='medium'>Cornering సమయంలో outer wheel ఎక్కువ speed తో తిరగడానికి ఇది సహాయపడుతుంది.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:25",
+    "end": "00:02:31",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Stargears</emphasis> మరియు <emphasis level='strong'>spider</emphasis> రెండు sungears ను కలిపి ఉంచుతాయి.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:32",
+    "end": "00:02:37",
+    "text": "<speak><prosody rate='medium'>ఇవి sungears ఒకే దిశలో తిరగడానికి సహాయపడతాయి.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:38",
+    "end": "00:02:42",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Spider</emphasis> planetary gears ను స్థిరంగా ఉంచుతుంది.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:02:44",
+    "end": "00:02:51",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Axle shaft</emphasis> forged alloy steel తో తయారైంది<break time='200ms'/> ఒక చివర splines మరియు మరొక చివర flange కలిగి ఉంటుంది.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:02:51",
+    "end": "00:03:01",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Brake drum</emphasis> special cast iron తో తయారైంది<break time='200ms'/> ఇది heat conductive మరియు wear resistant గా ఉంటుంది.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:02",
+    "end": "00:03:07",
+    "text": "<speak><prosody rate='medium'>ఇది brake shoe దగ్గర అమర్చబడింది మరియు wheel తో తిరుగుతుంది.</prosody><break time='100ms'/></speak>"
+  },
+  {
+    "start": "00:03:09",
+    "end": "00:03:18",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Wheel hub</emphasis> sferoidal cast iron తో తయారైంది<break time='200ms'/> ఇది bearings, oil seals మరియు wheel bolts ను కలిగి ఉంటుంది.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:18",
+    "end": "00:03:27",
+    "text": "<speak><prosody rate='medium'>Hub wheel bearings కు housing గా పనిచేస్తుంది మరియు axle చుట్టూ wheel తిరుగుతుంది.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:31",
+    "end": "00:03:38",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Brake assembly</emphasis> camshaft, shoes, return springs మరియు dirt shields ను కలిగి ఉంటుంది.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:38",
+    "end": "00:03:49",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Rear axle housing</emphasis> axle assembly లో ప్రధాన భాగం<break time='200ms'/> ఇది heavy duty floating type design తో ఉంటుంది.</prosody><break time='300ms'/></speak>"
+  },
+  {
+    "start": "00:03:50",
+    "end": "00:03:57",
+    "text": "<speak><prosody rate='medium'><emphasis level='strong'>Differential carrier assembly</emphasis> drive head unit గా కూడా పిలుస్తారు<break time='200ms'/> ఇది axle housing కు అమర్చబడింది.</prosody><break time='300ms'/></speak>"
+  }
+]
